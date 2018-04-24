@@ -1,0 +1,33 @@
+{
+  "name": "workspace-includeher",
+  "version": "1.0.0",
+  "description": "Platform for female developers. Built in my last semester of AIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madwester/includeher.git"
+  },
+  "keywords": [
+    "female",
+    "developers",
+    "girls",
+    "coding"
+  ],
+  "author": "Madeleine Westerstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madwester/includeher/issues"
+  },
+  "homepage": "https://github.com/madwester/includeher#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "watch": "^1.0.2"
+  }
+}
